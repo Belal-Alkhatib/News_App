@@ -1,4 +1,4 @@
-package com.b.alkhatib.mvvmnewsapp
+package com.b.alkhatib.mvvmnewsapp.models
 
 data class NewsRespons(
     val articles: List<Article>,

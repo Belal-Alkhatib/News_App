@@ -1,6 +1,6 @@
 package com.b.alkhatib.mvvmnewsapp.api
 
-import com.b.alkhatib.mvvmnewsapp.NewsRespons
+import com.b.alkhatib.mvvmnewsapp.models.NewsRespons
 import com.b.alkhatib.mvvmnewsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
